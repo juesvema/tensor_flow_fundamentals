@@ -1,0 +1,4 @@
+1 ---> Download Anaconda
+2 ---> conda env create -f tfdl_env.yml - on root directory
+3 ---> activate tfdeeplearning / deactivate
+4 ---> jupyter notebook
